@@ -1,0 +1,5 @@
+{
+  "name": "Google AI Ultra Studio",
+  "description": "Ứng dụng tự động hóa tạo ảnh và video hàng loạt sử dụng Gemini Ultra & Veo models.",
+  "requestFramePermissions": []
+}
